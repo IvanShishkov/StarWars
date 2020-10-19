@@ -8,6 +8,8 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+yarn-error.log
+.prettierrc
 
 # macOS
 .DS_Store
